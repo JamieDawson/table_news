@@ -1,5 +1,5 @@
 capsule {
-  id (jamie_dawson.table_top_news)
+  id (jamie_dawson.tabletop_news)
   version (1.0.1)
   format (3)
   targets {
