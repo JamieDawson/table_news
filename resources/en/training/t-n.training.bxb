@@ -8,6 +8,11 @@ train (t-n9ilm8ctmwamip2tsritou7lp) {
   plan (Y2BhkEnLzEvMiU/KLy7WKy7ILyopjk9LTU0p1vPMS8tnUMQlm5Zakpzhl1pezCCHS0lwamJRcgaDNC75kMR0BmYGRgYmIMkApEEQApiALKAYAA==)
   last-modified (1568409532488)
 }
+train (t-ne495s9xd11mmrtjveu62090m) {
+  utterance ("[g:Search:prompt] (board game geek)[v:Tag] ")
+  plan (Y2BmkMtKzM1MjU9JLC/Oz9MrSUzKSY3PSy0v1gtOTSxKzmBQxiWfllqSnAFVJI1LUUhiOgMTAyMQMwBJRgYQYIJgAA==)
+  last-modified (1570413729757)
+}
 train (t-nh6aianb8temt4op8s1eyzzri) {
   utterance ([g:fetchNews] Get a list of stories)
   plan (Y2BmkEzLzEvMiU/KLy7WKyoujk9LTU0p1vPMS8tnkMMqlZZakpzhl1pezCCNVT44NbEoOYOBiYERiBmAJCMDA4wGAA==)

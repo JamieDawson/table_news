@@ -1,5 +1,5 @@
 capsule {
-  id (final_boss.rss_template)
+  id (jamie_dawson.table_top_news)
   version (1.0.1)
   format (3)
   targets {
