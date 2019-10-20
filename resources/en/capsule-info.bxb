@@ -1,12 +1,14 @@
 capsule-info {
-  display-name (Tabletop News)
-  dispatch-name (Tabletop News)
-  developer-name (Jamie Dawson)
+  display-name (Table News)
+  dispatch-name (Table News)
+  developer-name (Tabletop News Team)
   icon-asset (icon.png)
-  description (Tabletop News is a Capsule that brings together news sources about Table Top Games (Board Game Geek, The Dice Tower, and Board Game Quest). All content is sourced from public RSS Feeds. Sources: https://www.boardgamegeek.com/rss/blog/1, https://www.dicetower.com/master-feed.xml/feed, https://www.boardgamequest.com/feed)
+  description ("Table News is a Capsule that brings together news sources about Table Top Games (Board Game Geek, The Dice Tower, and Board Game Quest). \n All content is sourced from public RSS Feeds. Sources: https://www.boardgamegeek.com/rss/blog/1, https://www.dicetower.com/master-feed.xml/feed, https://www.boardgamequest.com/feed")
   search-keywords {
     keyword (News)
     keyword (RSS)
     keyword (Games)
   }
+
+ 
 }
